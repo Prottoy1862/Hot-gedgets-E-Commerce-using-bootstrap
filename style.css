@@ -1,0 +1,65 @@
+.container{
+    margin-bottom: 100px;
+}
+.font-s{
+    font-weight: bold;
+    font-size: larger;
+}
+p{
+    color: rgb(83, 82, 82);
+}
+.background{
+    background-image: url(images/header-bg.png);   
+    border-radius: 15px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.B-N-button{
+    padding: 7px 15px;
+    background-image: linear-gradient(rgb(48, 47, 47), black);
+    color: white;
+    border-radius: 10px;
+}
+.card-footer{
+    border-top:none;
+    background-color: white;
+}
+.card{
+    border-radius:10px;;
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#button-top{
+    margin-top: 50px;
+}
+#button-down{
+    margin-bottom: 20px;
+}
+.cat-center{
+    text-align: center;
+}
+.box{
+    border-radius:10px;;
+    box-shadow: 10px 10px 5px  lightgray;
+    padding: 40px 10px;
+}
+.img-size{
+    width: 100%;
+    height: 100%;
+}
+.cat-down{
+    margin-bottom: 50px;
+}
+.gray-bg{
+    background-color:rgb(230, 224, 224);
+    border-radius: 20px;
+    padding: 50px 50px;
+}
+.bn-margin{
+    margin-top: 10px;
+    margin-left: 100px;
+}
+footer{
+    text-align: center;
+}
